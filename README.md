@@ -13,6 +13,8 @@ A copy of teknoparrot and MaiMai GreeN is required to use MaiMai VR. Teknoparrot
 
 Please note this project is non profit and has no affiliation with SEGA.
 
+Do not use this in commercial/profitable scenarios.
+
 TODO:
 - Fix lag when pressing lots of buttons
 - Improve controls
