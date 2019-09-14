@@ -7,7 +7,7 @@ Changelog:
 
 0.1
 
--First version
+- First version
 
 A copy of teknoparrot and MaiMai GreeN is required to use MaiMai VR. Teknoparrot can be downloaded from https://teknoparrot.com/. Links to MaiMai GreeN will not be provided.
 
