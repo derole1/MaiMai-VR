@@ -4,7 +4,9 @@ Open Source VR environment for MaiMai GreeN
 Current version: 0.1
 
 Changelog:
+
 0.1
+
 -First version
 
 A copy of teknoparrot and MaiMai GreeN is required to use MaiMai VR. Teknoparrot can be downloaded from https://teknoparrot.com/. Links to MaiMai GreeN will not be provided.
