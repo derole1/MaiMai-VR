@@ -10,13 +10,16 @@ Changelog:
 - Switched support from GreeN to FiNALE
 - Updated cabinet artwork to fit the FiNALE theme
 - Touch input now mostly works (can sometimes be a bit dodgy)
-- Input lag greatly reduced
-- VJoy/UCR no longer required, virtual buttons can now interface directly with the game
 - LED hooks implemented (may or may not lag the environment, didnt lag too bad for me)
 - You can now use any part of the controller to hit buttons
+  
+0.2
+
+- Input lag greatly reduced
+- VJoy/UCR no longer required, virtual buttons can now interface directly with the game
 - 2 player is supported HOWEVER you would need to somehow get a 2nd VR headset in the game or something unless you wanna try play 
   doubles with yourself
-  
+
 0.1
 
 - First version
