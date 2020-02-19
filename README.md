@@ -1,11 +1,11 @@
 # MaiMai-VR
 Open Source VR environment for MaiMai GreeN
 
-Current version: 0.2
+Current version: 0.3
 
 Changelog:
 
-0.2
+0.3
 
 - Switched support from GreeN to FiNALE
 - Updated cabinet artwork to fit the FiNALE theme
