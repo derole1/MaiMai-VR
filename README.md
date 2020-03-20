@@ -1,5 +1,5 @@
 # MaiMai-VR
-Open Source VR environment for MaiMai GreeN
+Open Source VR environment for MaiMai FiNALE
 
 Current version: 0.3
 
