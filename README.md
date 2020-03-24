@@ -3,6 +3,8 @@ Open Source VR environment for MaiMai FiNALE
 
 Current version: 0.3
 
+PLEASE NOTE: THIS HAS ONLY BEEN TESTED WITH HTC VIVE BUT SHOULD WORK ON ANY HEADSET WITH STEAMVR SUPPORT. (Oculus support is enabled but dont know if it works as I have no headset to test)
+
 Changelog:
 
 0.3
