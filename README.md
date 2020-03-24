@@ -46,6 +46,6 @@ Screenshots:
 ![Screenshot1](https://cdn.discordapp.com/attachments/422421013981036547/649012413533913088/20191126220500_1.jpg)
 ![Screenshot2](https://cdn.discordapp.com/attachments/422421013981036547/649015578526351391/20191126214830_1.jpg)
 
-source+precompiled: http://derole.co.uk/maimaivr/downloads/source.7z
+source+precompiled: https://derole.co.uk/maimaivr/downloads/source.7z
 
-precompiled only: http://derole.co.uk/maimaivr/downloads/precompiled.7z
+precompiled only: https://derole.co.uk/maimaivr/downloads/precompiled.7z
