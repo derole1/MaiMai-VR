@@ -39,6 +39,7 @@ TODO:
 - ~~Improve controls~~
 - ~~Make hold notes work properly (Mostly done)~~
 - ~~Implement touch input~~
+- Improve touch input to use individual sensors
 - ~~Implement button ring and haptic feedback for buttons~~
 - ~~Make cab mounted cameras record to mp4 file on request~~
 
