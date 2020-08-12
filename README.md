@@ -1,11 +1,15 @@
 # MaiMai-VR
 Open Source VR environment for MaiMai FiNALE
 
-Current version: 0.3
+Current version: 0.4
 
-**PLEASE NOTE: THIS HAS ONLY BEEN TESTED WITH HTC VIVE. Oculus support is enabled but currently broken according to users.**
+**Oculus support should be fixed**
 
 Changelog:
+
+0.4
+
+- Oculus headsets should work now
 
 0.3
 
@@ -47,6 +51,8 @@ Screenshots:
 ![Screenshot1](https://cdn.discordapp.com/attachments/422421013981036547/649012413533913088/20191126220500_1.jpg)
 ![Screenshot2](https://cdn.discordapp.com/attachments/422421013981036547/649015578526351391/20191126214830_1.jpg)
 
-source+precompiled: https://derole.co.uk/maimaivr/downloads/source.7z
+source: https://derole.co.uk/maimaivr/download/source.7z
 
-precompiled only: https://derole.co.uk/maimaivr/downloads/precompiled.7z
+precompiled: https://derole.co.uk/maimaivr/download/precompiled.7z
+
+EDIT: I had a few people wonder why the code isnt actually in the github repo (Yes I do know how github works). This is because some of the files seem to be to large for the github repo (such as assets) and it refuses to let me upload them.
