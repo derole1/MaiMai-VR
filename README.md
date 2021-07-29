@@ -1,6 +1,8 @@
 # MaiMai-VR
 Open Source VR environment for MaiMai FiNALE
 
+PLEASE NOTE YOU MUST SET MAIMAI TO 1440x1280 FOR IT TO DISPLAY CORRECTLY!
+
 Current version: 0.4
 
 **Oculus support should be fixed**
